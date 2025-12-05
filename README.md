@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 I'm a Software Engineering student at UGM, focusing on building real-world systems and improving my technical & project management skills.  <br>🧭 I work across fullstack development, backend API design, and DevOps—often balancing both technical tasks and team coordination.  <br>⚙️ Currently diving deeper into system design, distributed architecture, Docker-based deployments, and improving cross-team workflows.  <br>🌱 I enjoy building practical solutions, organizing development processes, and constantly refining how teams collaborate.</p>
+<p align="left">🎓 I'm a Software Engineering student at UGM, focusing on building real-world systems and improving my technical & project management skills.  <br>🧭 I work across fullstack development, backend API design, and DevOps often balancing both technical tasks and team coordination.  <br>⚙️ Currently diving deeper into system design, distributed architecture, Docker based deployments, and improving cross-team workflows.  <br>🌱 I enjoy building practical solutions, organizing development processes, and constantly refining how teams collaborate.</p>
 
 ###
 
